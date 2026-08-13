@@ -1,3 +1,5 @@
+-- connected github to discord
+
 local State = require(script.State)
 local Types = require(script.Types)
 
